@@ -1,0 +1,25 @@
+---
+title: "Causality Notes"
+---
+
+# References
+
+## Books
+
+- Causality, Pearl
+	- Date: 2009
+	- Link: <https://archive.illc.uva.nl/cil/uploaded_files/inlineitem/Pearl_2009_Causality.pdf>
+	- Notes: Foundation Resource
+
+## Videos
+
+## Lecture Notes
+
+- Jonas Peters Lecture Notes.
+	- Link: [https://people.math.ethz.ch/~jopeters/jonas_files/scriptChapter1-4.pdf](https://people.math.ethz.ch/~jopeters/jonas_files/scriptChapter1-4.pdf)
+	- Date: 2015
+	- Notes: Looks quite minimal, might be a good first read
+- Patrick Forre and Joris Mooij Lecture Notes
+	- Link: [https://staff.fnwi.uva.nl/j.m.mooij/teaching.html](https://staff.fnwi.uva.nl/j.m.mooij/teaching.html)
+	- Date: 2023
+	- Notes: Looks mathematically inclined with a measure theory perspective.

@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+This notes are a selection of my personal notes on the broad topic of causality. They are not meant to be a comprehensive resource, but rather a collection of my own thoughts and interests on the topic.
