@@ -13,6 +13,14 @@ title: "Causality Notes"
 
 ## Videos
 
+- Simons Institute for the Theory of Computing
+	- Link: <https://simons.berkeley.edu/workshops/causality-boot-camp/videos#simons-tabs>
+	- Date: 2022
+	- Notes: -
+- Adele Ribeiro Lectures
+  - Link: <https://www.youtube.com/@adelehelena/playlists>
+  - Notes: -
+
 ## Lecture Notes
 
 - Jonas Peters Lecture Notes.
